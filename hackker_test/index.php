@@ -1,0 +1,1 @@
+<h1 style="color: red;">the site has been hacked</h1>
